@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 5 Solution
+ *  Copyright 2021 Nicholas Rubio
+ */
+
 #include <iostream>
 
 using namespace std;
@@ -18,7 +23,7 @@ int main()
     {
         result = "odd";
     }
-    
+
     cout << "The value " << number << " is an " << result << " number." << endl;
 
     return 0;
